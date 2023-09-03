@@ -49,19 +49,13 @@ The COVID-19 data is fetched from the following APIs:
 
 ```
 
-2. **Navigate to the Project Directory**: Move into the project directory using the following command:
-
-```
-cd ReactTS_Contact_Visuals
-```
-
-3. **Install Dependencies**: Install the necessary dependencies by running:
+2. **Install Dependencies**: Install the necessary dependencies by running:
 
 ```
 npm install
 ```
 
-4. **Start the App**: Launch the app using the following command:
+3. **Start the App**: Launch the app using the following command:
 
 ```
 npm start
@@ -69,8 +63,8 @@ npm start
 
 > This will start a development server and open the app in your default web browser. You can access it at `http://localhost:3000`.
 
-5. **Explore the App**: Now you can explore the contact management app. Add new contacts, view contact details, edit and delete contacts. You can also navigate to the Charts and Maps section to visualize COVID-19 data using React ChartJS 2 for charts.
-6. **Deployment**: If you wish to deploy the app to a hosting service like Vercel, GitHub Pages, or Heroku, you can follow their respective deployment guides to publish your app online.
+4. **Explore the App**: Now you can explore the contact management app. Add new contacts, view contact details, edit and delete contacts. You can also navigate to the Charts and Maps section to visualize COVID-19 data using React ChartJS 2 for charts.
+5. **Deployment**: If you wish to deploy the app to a hosting service like Vercel, GitHub Pages, or Heroku, you can follow their respective deployment guides to publish your app online.
 
 ## Technologies Used 🛠️
 
