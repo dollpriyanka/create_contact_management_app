@@ -46,7 +46,7 @@ The COVID-19 data is fetched from the following APIs:
 1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:
 
 ```
-
+https://github.com/dollpriyanka/create_contact_management_app.git
 ```
 
 2. **Install Dependencies**: Install the necessary dependencies by running:
