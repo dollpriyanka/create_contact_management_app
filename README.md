@@ -1,6 +1,6 @@
 # Contact Management App with Charts and Maps 📊🗺️
 
-This is a contact management app built using ReactJS, TypeScript, TailwindCSS, React Router v6, and React Query from the TanstackQuery library. The app allows you to manage your contacts and also provides interactive charts and maps to visualize COVID-19 data.
+This is a contact management app built using ReactJS, TypeScript, TailwindCSS, React Router v6, and React Query from the TanstackQuery library. The app allows you to manage your contacts and also provides interactive charts and maps to visualize COVID-19 data..
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
